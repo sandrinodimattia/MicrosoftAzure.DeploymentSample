@@ -8,9 +8,9 @@
 </head>
 <body style="background-color: green; font-size: 20px">
     <form id="form1" runat="server">
-    <div>
-    Hello azure!
-    </div>
+    <h1>
+    Hello Microsoft Azure!
+    </h1>
     </form>
 </body>
 </html>
